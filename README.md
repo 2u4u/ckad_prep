@@ -19,6 +19,11 @@
 - Playground to play with network policies [networkpolicy.io](https://editor.networkpolicy.io/)
 - 8 more exam questions with answers [https://k21academy.com/docker-kubernetes/cka-ckad-exam-questions-answers/](https://k21academy.com/docker-kubernetes/cka-ckad-exam-questions-answers/)
 
+## Playgrounds
+
+- https://labs.play-with-k8s.com/
+- https://killercoda.com/playgrounds/scenario/ckad
+- 
 ## Vi tips
 
 - `ZZ` - Save and exit quickly
@@ -26,3 +31,5 @@
 - Press `Esc`, then type `undo` - to undo recent change
 - Press `Esc`, then `SHIFT + V` - to select multiple lines.
 - After selecting multiple lines type `>>` to indent them
+
+
